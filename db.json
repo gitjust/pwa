@@ -1,0 +1,84 @@
+{
+animals:
+[{
+  "id": 1,
+  "name": "Butterfly (unidentified)",
+  "category": "Aquamarine"
+}, {
+  "id": 2,
+  "name": "Dragon, netted rock",
+  "category": "Yellow"
+}, {
+  "id": 3,
+  "name": "Horned rattlesnake",
+  "category": "Aquamarine"
+}, {
+  "id": 4,
+  "name": "Barbet, crested",
+  "category": "Red"
+}, {
+  "id": 5,
+  "name": "Jungle cat",
+  "category": "Pink"
+}, {
+  "id": 6,
+  "name": "Python (unidentified)",
+  "category": "Yellow"
+}, {
+  "id": 7,
+  "name": "Heron, green-backed",
+  "category": "Khaki"
+}, {
+  "id": 8,
+  "name": "Antelope, sable",
+  "category": "Mauv"
+}, {
+  "id": 9,
+  "name": "Kingfisher, malachite",
+  "category": "Turquoise"
+}, {
+  "id": 10,
+  "name": "Bear, sloth",
+  "category": "Khaki"
+}, {
+  "id": 11,
+  "name": "Reedbuck, bohor",
+  "category": "Goldenrod"
+}, {
+  "id": 12,
+  "name": "Beisa oryx",
+  "category": "Maroon"
+}, {
+  "id": 13,
+  "name": "Rat, arboral spiny",
+  "category": "Mauv"
+}, {
+  "id": 14,
+  "name": "Tawny eagle",
+  "category": "Pink"
+}, {
+  "id": 15,
+  "name": "Timber wolf",
+  "category": "Crimson"
+}, {
+  "id": 16,
+  "name": "Bear, sloth",
+  "category": "Orange"
+}, {
+  "id": 17,
+  "name": "Thirteen-lined squirrel",
+  "category": "Purple"
+}, {
+  "id": 18,
+  "name": "Phalarope, red-necked",
+  "category": "Puce"
+}, {
+  "id": 19,
+  "name": "Wombat, southern hairy-nosed",
+  "category": "Khaki"
+}, {
+  "id": 20,
+  "name": "Porcupine, tree",
+  "category": "Indigo"
+}]
+}
