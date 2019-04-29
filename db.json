@@ -1,5 +1,6 @@
 {
-	"animals": [{
+	"animals": [
+	{
 		"id": 1,
 		"name": "Butterfly (unidentified)",
 		"category": "Aquamarine"
